@@ -2,7 +2,7 @@
 
 从零实现的最小可用 Agent Runtime。**不依赖任何 agent 框架**（没有 LangChain / LangGraph /
 OpenHands / 任何 orchestration 库），**零第三方依赖**（只 Python 标准库），同一份 Runtime
-提供 **CLI** 与 **Web** 两个入口。
+提供 **CLI** 与 **Web** 两个入口。 
 
 给定一个文件夹（或单个文件）作为根目录，用户用自然语言提问，Agent 自行决定：
 
